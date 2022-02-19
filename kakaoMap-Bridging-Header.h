@@ -8,5 +8,6 @@
 #ifndef kakaoMap_Bridging_Header_h
 #define kakaoMap_Bridging_Header_h
 
+#import <DaumMap/MTMapView.h>
 
 #endif /* kakaoMap_Bridging_Header_h */
